@@ -47,6 +47,6 @@ body, html {
 
 @media only screen and (max-width: 768px) {
   .card {
-    width: 18rem;
+    width: 100%;
   }
 }
