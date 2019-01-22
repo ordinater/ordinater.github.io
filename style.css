@@ -45,7 +45,7 @@ body, html {
 	opacity: 0.5;
 }
 
-@media only screen and (max-width: 767px) { {
+@media only screen and (max-width: 425px) { {
   .card {
     width: 100%;
   }
