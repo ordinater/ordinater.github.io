@@ -44,3 +44,9 @@ body, html {
 	filter: alpha(opacity=50);
 	opacity: 0.5;
 }
+
+@media only screen and (max-width: 768px) {
+  .card {
+    width: 18rem;
+  }
+}
