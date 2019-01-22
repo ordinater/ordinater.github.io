@@ -45,14 +45,12 @@ body, html {
 	opacity: 0.5;
 }
 
-@media only screen and (max-width: 425px) {
+.card {
+  width: 18rem;
+}
+
+@media screen and (max-width: 600px) {
   .card {
     width: 100%;
   }
-}
-
-@media only screen and (min-width 600) {
-	.card {
-		width: 18rem;
-	}
 }
